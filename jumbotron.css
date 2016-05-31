@@ -12,5 +12,21 @@ h1 {
 
 .bigHead {
     color: black !important;
-font-size: 50px !important;
+    font-size: 50px !important;
+}
+
+.chap {
+    height: 85px;
+}
+
+.chah1 {
+    margin-top: -10px;
+}
+
+.chapterHeader {
+    font-size: 40px !important;
+}
+
+#dropdownmenu {
+    /*    height: auto;*/
 }
